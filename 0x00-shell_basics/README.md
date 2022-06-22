@@ -1,1 +1,1 @@
-What's in there?
+changes the working directory to the user’s home directory
