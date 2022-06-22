@@ -1,1 +1,1 @@
-prints the type of file
+The symbolic link should be created in the current working directory.
