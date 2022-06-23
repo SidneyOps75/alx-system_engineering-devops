@@ -1,1 +1,1 @@
-print all the current groups
+changes the owner of the file
