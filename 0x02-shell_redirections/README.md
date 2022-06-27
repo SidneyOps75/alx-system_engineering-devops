@@ -1,2 +1,1 @@
-Shell Redirections
-Task 1: Confused Smiley
+ Script that prints confused smiley
